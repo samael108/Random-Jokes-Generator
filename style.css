@@ -1,0 +1,35 @@
+body {
+    font-size: 15pt;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    border: 2px solid black;
+    padding: 20px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    text-align: center;
+}
+.joke-box{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 15px;
+}
+#getJokeBtn{
+    padding: 6px;
+    border-radius: 10px;
+    font-size: 13pt;
+}
+footer p {
+    margin: 0;
+    padding-top: 10px;
+}
+.footer-text {
+  margin: 0;
+  font-size: 0.85rem;      /* Smaller font */
+  color: #bbb;             /* Light gray color */
+  letter-spacing: 0.5px;   /* Slight spacing for elegance */
+  font-family: 'Segoe UI', Tahoma, Geneva, sans-serif; /* Clean font */
+  text-align: center;
+}
