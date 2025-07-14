@@ -3,7 +3,7 @@
 A simple web app that displays a random joke every time you click the button. It uses clean HTML, CSS, and JavaScript to create a fun, interactive experience.
 
 ## 🚀 Live Demo
-👉 [Click here to try it out](https://samael108.github.io/random-joke-generator)
+👉 [Click here to try it out](https://samael108.github.io/Random-Jokes-Generator/)
 
 ## 📁 Project Structure
 - `index.html` – Markup for the joke box and button
